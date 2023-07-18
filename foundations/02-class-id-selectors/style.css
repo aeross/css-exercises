@@ -1,0 +1,19 @@
+.normal {
+    background-color: rgb(252, 175, 175);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#one {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#two {
+    background-color: rgb(112, 255, 112);
+    font-size: 24px;
+    font-weight: bold;
+}
